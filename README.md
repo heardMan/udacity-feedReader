@@ -2,15 +2,24 @@
 
 ## Introduction
 
-Udacifeeds is a project a feed reader project initial created by Udacity.
+Udacifeeds is a project a feed reader project initially created by Udacity.
 
 The purpose of the project is to learn how to write Jasmine based test suites.
 
 As you can see by scrolling to the very bottom of the page -- <a href="https://heardman.github.io/udacity-feedReader/">here</a>.
 
+
+
+<br/>
+
 <img src="https://github.com/heardMan/udacity-feedReader/blob/master/img/example.gif">
 
+
+
+<br/>
+
 ## Set Up Instructions
+
 
 ### Step 1
 
