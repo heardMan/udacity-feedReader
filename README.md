@@ -21,7 +21,8 @@ copy and paste the following instructions into your terminal
 ```cd desktop
 git clone https://github.com/heardMan/udacity-feedReader
 cd udacity-feedReader
-open index.html```
+open index.html
+```
 
 Step 2 
 
