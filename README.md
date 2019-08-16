@@ -1,8 +1,6 @@
 # udacity-feedReader
 
-## Welcome to Udacifeeds!
-
-### Introduction
+## Introduction
 
 Udacifeeds is a project a feed reader project initial created by Udacity.
 
@@ -12,9 +10,9 @@ As you can see by scrolling to the very bottom of the page -- <a href="https://h
 
 <img src="https://github.com/heardMan/udacity-feedReader/blob/master/img/example.gif">
 
-### Set Up Instructions
+## Set Up Instructions
 
-Step 1
+### Step 1
 
 copy and paste the following instructions into your terminal 
 
@@ -24,12 +22,12 @@ cd udacity-feedReader
 open index.html
 ```
 
-Step 2 
+### Step 2 
 
 Open the repository in your favorite code editor
 
 and write a test suite of your own!
 
-Step 3 
+### Step 3 
 
 Have a Blast!!!
